@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <scorpion>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161126-scorpion.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download unofficial RR for Z3TC (LTE)">https://www.androidfilehost.com/?fid=385035244224401878</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</OpenGappsUrl>
+        </scorpion>
+        <scorpion_windy>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161126-scorpion_windy.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download unofficial RR for Z3TC (Wi-Fi)">https://www.androidfilehost.com/?fid=529152257862685009</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</OpenGappsUrl>
+        </scorpion_windy>
+    </Stable>
+</SlimOTA>
