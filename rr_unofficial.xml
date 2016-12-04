@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <scorpion>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161203-scorpion.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161204-scorpion.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download unofficial RR for Xperia Z3 Tablet Compact (LTE)">https://www.androidfilehost.com/?fid=385035244224403238</RomUrl>
+                description="Download unofficial RR for Xperia Z3 Tablet Compact (LTE)">https://www.androidfilehost.com/?fid=385035244224403444</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -17,11 +17,11 @@
             	description="Download latest Open GApps">http://opengapps.org/</OpenGappsUrl>
         </scorpion>
         <scorpion_windy>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161203-scorpion_windy.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161204-scorpion_windy.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download unofficial RR for Xperia Z3 Tablet Compact (Wi-Fi)">https://www.androidfilehost.com/?fid=529152257862686283</RomUrl>
+                description="Download unofficial RR for Xperia Z3 Tablet Compact (Wi-Fi)">https://www.androidfilehost.com/?fid=529152257862686503</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
