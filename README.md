@@ -1,2 +1,2 @@
 # OTA
-RR OTA repository
+AICP/RR Unofficial OTA configuration repository
