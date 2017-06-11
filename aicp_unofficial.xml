@@ -2,18 +2,18 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <scorpion>
-            <Filename>aicp_scorpion_n-12.1-UNOFFICIAL-20170526</Filename>
+            <Filename>aicp_scorpion_n-12.1-UNOFFICIAL-20170611</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download unofficial AICP for Xperia Z3 Tablet Compact (LTE)">https://www.androidfilehost.com/?fid=889764386195902206</RomUrl>
+                description="Download unofficial AICP for Xperia Z3 Tablet Compact (LTE)">https://www.androidfilehost.com/?fid=745425885120739701</RomUrl>
         </scorpion>
         <scorpion_windy>
-            <Filename>aicp_scorpion_windy_n-12.1-UNOFFICIAL-20170526</Filename>
+            <Filename>aicp_scorpion_windy_n-12.1-UNOFFICIAL-20170611</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download unofficial AICP for Xperia Z3 Tablet Compact (Wi-Fi)">https://www.androidfilehost.com/?fid=889764386195902207</RomUrl>
+                description="Download unofficial AICP for Xperia Z3 Tablet Compact (Wi-Fi)">https://www.androidfilehost.com/?fid=961840155545572828</RomUrl>
         </scorpion_windy>
     </Stable>
 </SlimOTA>
