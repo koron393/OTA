@@ -11,6 +11,10 @@
                 id="gzr_gapps"
                 title="GZR GApps"
                 description="Download latest GZR GApps">https://androidfilehost.com/?w=files&amp;flid=235144</GZRGappsUrl>
+            <XdaUrl
+                id="xda_thread"
+                title="XDA Thread"
+                description="Access XDA thread!!">https://forum.xda-developers.com/z3-tablet-compact/orig-development/rom-aicp-android-ice-cold-project-o8-1-t3731197</XdaUrl>
         </scorpion>
         <scorpion_windy>
             <Filename>aicp_scorpion_windy_o-13.1-UNOFFICIAL-20180120</Filename>
@@ -22,6 +26,10 @@
                 id="gzr_gapps"
                 title="GZR GApps"
                 description="Download latest GZR GApps">https://androidfilehost.com/?w=files&amp;flid=235144</GZRGappsUrl>
+            <XdaUrl
+                id="xda_thread"
+                title="XDA Thread"
+                description="Access XDA thread!!">https://forum.xda-developers.com/z3-tablet-compact/orig-development/rom-aicp-android-ice-cold-project-o8-1-t3731197</XdaUrl>
         </scorpion_windy>
     </Alpha>
 </SlimOTA>
