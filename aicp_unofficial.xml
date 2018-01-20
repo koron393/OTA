@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <Stable>
+    <Alpha>
         <scorpion>
-            <Filename>aicp_scorpion_n-12.1-UNOFFICIAL-20170909</Filename>
+            <Filename>aicp_scorpion_o-13.1-UNOFFICIAL-20180120</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download unofficial AICP for Xperia Z3 Tablet Compact (LTE)">https://www.androidfilehost.com/?fid=673368273298984545</RomUrl>
+                description="Download unofficial AICP for Xperia Z3 Tablet Compact (LTE)">https://www.androidfilehost.com/?fid=890129502657577499</RomUrl>
+            <GZRGappsUrl
+                id="gzr_gapps"
+                title="GZR GApps"
+                description="Download latest GZR GApps">https://androidfilehost.com/?w=files&amp;flid=235144</GZRGappsUrl>
         </scorpion>
         <scorpion_windy>
-            <Filename>aicp_scorpion_windy_n-12.1-UNOFFICIAL-20170909</Filename>
+            <Filename>aicp_scorpion_windy_o-13.1-UNOFFICIAL-20180120</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download unofficial AICP for Xperia Z3 Tablet Compact (Wi-Fi)">https://www.androidfilehost.com/?fid=889764386195928544</RomUrl>
+                description="Download unofficial AICP for Xperia Z3 Tablet Compact (Wi-Fi)">https://www.androidfilehost.com/?fid=673956719939813891</RomUrl>
+            <GZRGappsUrl
+                id="gzr_gapps"
+                title="GZR GApps"
+                description="Download latest GZR GApps">https://androidfilehost.com/?w=files&amp;flid=235144</GZRGappsUrl>
         </scorpion_windy>
-    </Stable>
+    </Alpha>
 </SlimOTA>
