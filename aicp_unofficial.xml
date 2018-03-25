@@ -2,30 +2,30 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Alpha>
         <scorpion>
-            <Filename>aicp_scorpion_o-13.1-UNOFFICIAL-20180221</Filename>
+            <Filename>aicp_scorpion_o-13.1-UNOFFICIAL-20180325</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download unofficial AICP for Xperia Z3 Tablet Compact (LTE)">https://www.androidfilehost.com/?fid=818070582850494133</RomUrl>
+                description="Download unofficial AICP for Xperia Z3 Tablet Compact (LTE)">https://www.androidfilehost.com/?fid=818070582850503365</RomUrl>
             <GZRGappsUrl
                 id="gzr_gapps"
                 title="GZR GApps"
-                description="Download latest GZR GApps">https://androidfilehost.com/?w=files&amp;flid=235144</GZRGappsUrl>
+                description="Download latest GZR GApps">https://androidfilehost.com/?w=files&amp;flid=189325</GZRGappsUrl>
             <XdaUrl
                 id="xda_thread"
                 title="XDA Thread"
                 description="Access XDA thread!!">https://forum.xda-developers.com/z3-tablet-compact/orig-development/rom-aicp-android-ice-cold-project-o8-1-t3731197</XdaUrl>
         </scorpion>
         <scorpion_windy>
-            <Filename>aicp_scorpion_windy_o-13.1-UNOFFICIAL-20180221</Filename>
+            <Filename>aicp_scorpion_windy_o-13.1-UNOFFICIAL-20180325</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download unofficial AICP for Xperia Z3 Tablet Compact (Wi-Fi)">https://www.androidfilehost.com/?fid=746010030569955429</RomUrl>
+                description="Download unofficial AICP for Xperia Z3 Tablet Compact (Wi-Fi)">https://www.androidfilehost.com/?fid=890129502657593611</RomUrl>
             <GZRGappsUrl
                 id="gzr_gapps"
                 title="GZR GApps"
-                description="Download latest GZR GApps">https://androidfilehost.com/?w=files&amp;flid=235144</GZRGappsUrl>
+                description="Download latest GZR GApps">https://androidfilehost.com/?w=files&amp;flid=189325</GZRGappsUrl>
             <XdaUrl
                 id="xda_thread"
                 title="XDA Thread"
