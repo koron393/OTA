@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Alpha>
         <scorpion>
-            <Filename>aicp_scorpion_o-13.1-UNOFFICIAL-20180429</Filename>
+            <Filename>aicp_scorpion_o-13.1-UNOFFICIAL-20180531</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download unofficial AICP for Xperia Z3 Tablet Compact (LTE)">https://www.androidfilehost.com/?fid=962187416754477916</RomUrl>
+                description="Download unofficial AICP for Xperia Z3 Tablet Compact (LTE)">https://www.androidfilehost.com/?fid=674106145207490592</RomUrl>
             <GZRGappsUrl
                 id="gzr_gapps"
                 title="GZR GApps"
@@ -17,11 +17,11 @@
                 description="Access XDA thread!!">https://forum.xda-developers.com/z3-tablet-compact/orig-development/rom-aicp-android-ice-cold-project-o8-1-t3731197</XdaUrl>
         </scorpion>
         <scorpion_windy>
-            <Filename>aicp_scorpion_windy_o-13.1-UNOFFICIAL-20180429</Filename>
+            <Filename>aicp_scorpion_windy_o-13.1-UNOFFICIAL-20180531</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download unofficial AICP for Xperia Z3 Tablet Compact (Wi-Fi)">https://www.androidfilehost.com/?fid=673956719939837679</RomUrl>
+                description="Download unofficial AICP for Xperia Z3 Tablet Compact (Wi-Fi)">https://www.androidfilehost.com/?fid=962339331458995717</RomUrl>
             <GZRGappsUrl
                 id="gzr_gapps"
                 title="GZR GApps"
