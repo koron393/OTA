@@ -1,2 +1,2 @@
 # OTA
-AICP/RR Unofficial OTA configuration repository
+Floko Unofficial OTA configuration repository

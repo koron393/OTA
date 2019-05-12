@@ -6,10 +6,9 @@
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
 # * Chances are you only need to change the ota_url in this file 
 #
-ota_url=https://raw.githubusercontent.com/koron393/OTA/nougat/rr_unofficial.xml
-release_type=Stable
-device_name=ro.rr.device
-
+ota_url=https://raw.githubusercontent.com/koron393/OTA/pie/floko_unofficial.xml
+device_name=ro.lineage.device
+ 
 #
 # VERSION
 #
@@ -17,11 +16,11 @@ device_name=ro.rr.device
 # A version source can be a 'property key' from build.prop or a 'uname -r' command line
 # If a version is a number, leave the version_format empty. Otherwise, provide the date format
 #
-# Example with a property key 'ro.rr.version' : Parse the date 20150426 from 'ResurrectionRemix-M-v5.x.x-20150426-bacon'
+# Example with a property key 'ro.crdroid.build.version' : Parse the date 20170503 from 'crDroidAndroid-7.1.2-20170503-herolte-v3.0.zip'
 #
-# Version source: ro.rr.version
+# Version source: ro.crdroid.build.version
 # Version delimiter: -
-# Version position: 3 (zero based)
+# Version position: 2 (zero based)
 # Version format: yyyyMMdd
 #
 # Example with 'uname -r': Parse the number 239 from '3.4.107~AK.239.OPO.CM12.1'
@@ -33,7 +32,7 @@ device_name=ro.rr.device
 #
 # uname -r will only be needed if using the app for kernels, not required here
 
-version_source=ro.rr.version
+version_source=ro.crdroid.build.version
 version_delimiter=-
 version_position=3
 version_format=yyyyMMdd
