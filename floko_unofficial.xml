@@ -24,7 +24,7 @@
             <filename>Floko-v2.0-scorpion-20190914-UNOFFICIAL.zip</filename>
             <buildtype>UNOFFICIAL</buildtype>
             <download>https://www.androidfilehost.com/?fid=1899786940962585212</download>
-            <gapps>https://opengapps.org/</gapps>
+            <gapps>https://sourceforge.net/projects/opengapps/files/arm/</gapps>
         </scorpion>
         <scorpion_windy>
             <maintainer>koron393</maintainer>
@@ -32,7 +32,7 @@
             <filename>Floko-v2.0-scorpion_windy-20190914-UNOFFICIAL.zip</filename>
             <buildtype>UNOFFICIAL</buildtype>
             <download>https://www.androidfilehost.com/?fid=1899786940962585211</download>
-            <gapps>https://opengapps.org/</gapps>
+            <gapps>https://sourceforge.net/projects/opengapps/files/arm/</gapps>
         </scorpion_windy>
     </manufacturer>
 </OTA>
