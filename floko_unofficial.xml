@@ -25,6 +25,7 @@
             <buildtype>UNOFFICIAL</buildtype>
             <download>https://www.androidfilehost.com/?fid=1899786940962598783</download>
             <gapps>https://sourceforge.net/projects/opengapps/files/arm/</gapps>
+            <paypal>https://www.paypal.me/koron393</paypal>
         </scorpion>
         <scorpion_windy>
             <maintainer>koron393</maintainer>
@@ -33,6 +34,7 @@
             <buildtype>UNOFFICIAL</buildtype>
             <download>https://www.androidfilehost.com/?fid=1899786940962598782</download>
             <gapps>https://sourceforge.net/projects/opengapps/files/arm/</gapps>
+            <paypal>https://www.paypal.me/koron393</paypal>
         </scorpion_windy>
     </manufacturer>
 </OTA>
