@@ -21,18 +21,18 @@
         <scorpion>
             <maintainer>koron393</maintainer>
             <devicename>Xperia Z3 Tablet Compact LTE</devicename>
-            <filename>Floko-v2.0-scorpion-20191006-UNOFFICIAL.zip</filename>
+            <filename>Floko-v2.0-scorpion-20191016-UNOFFICIAL.zip</filename>
             <buildtype>UNOFFICIAL</buildtype>
-            <download>https://www.androidfilehost.com/?fid=1899786940962601858</download>
+            <download>https://www.androidfilehost.com/?fid=1899786940962609248</download>
             <gapps>https://sourceforge.net/projects/opengapps/files/arm/</gapps>
             <paypal>https://www.paypal.me/koron393</paypal>
         </scorpion>
         <scorpion_windy>
             <maintainer>koron393</maintainer>
             <devicename>Xperia Z3 Tablet Compact Wi-Fi</devicename>
-            <filename>Floko-v2.0-scorpion_windy-20191006-UNOFFICIAL.zip</filename>
+            <filename>Floko-v2.0-scorpion_windy-20191016-UNOFFICIAL.zip</filename>
             <buildtype>UNOFFICIAL</buildtype>
-            <download>https://www.androidfilehost.com/?fid=1899786940962601859</download>
+            <download>https://www.androidfilehost.com/?fid=1899786940962609247</download>
             <gapps>https://sourceforge.net/projects/opengapps/files/arm/</gapps>
             <paypal>https://www.paypal.me/koron393</paypal>
         </scorpion_windy>
